@@ -26,12 +26,12 @@ VISION_KEY=<Your Vision Key>
 
 3. **Run the Main Script**:
 
-    - Update the image_path variable in main.py to your desired image file path.
+- Update the image_path variable in main.py to your desired image file path.
 
-    - Execute the script:
-    ```bash
-    python main.py
-    ```
+- Execute the script:
+```bash
+python main.py
+```
 
 ## Project Structure
 
