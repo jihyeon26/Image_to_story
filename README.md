@@ -9,6 +9,8 @@ This project won **1st place** among the 10 teams in the second project.
 3. **Vision Analysis**: Uses Azure Computer Vision to analyze the visual content of images and create descriptive prompts.
 4. **GPT Travel Log Generation**: Generates travel logs using Azure Open AI, based on image content and location information.
 
+![UI Screenshot](results/dol.png)<br>
+
 ## Installation
 
 1. **Clone the Repository**:
